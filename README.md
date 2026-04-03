@@ -63,7 +63,8 @@ The dataset includes:
 ---
 
 ## 📸 Project Preview
-*(Add screenshots of your dashboard here)*
+<img width="1109" height="619" alt="image" src="https://github.com/user-attachments/assets/052b9c3e-23b8-4250-a25e-f81cf2200647" />
+
 
 ---
 
